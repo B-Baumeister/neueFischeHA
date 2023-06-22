@@ -1,0 +1,55 @@
+.font {
+  font-family: Arial;
+}
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+h1.p {
+  text-indent: 1.2em;
+}
+
+.p {
+  text-indent: 1.7em;
+}
+
+.blau {
+  color: blue;
+}
+
+.pink {
+  color: rgb(231, 81, 219);
+}
+
+.rot {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.gelb {
+  color: yellow;
+}
+
+.braun {
+  color: brown;
+}
+
+.grau {
+  color: grey;
+}
+
+.teal {
+  color: teal;
+}
+
+.limegreen {
+  color: limegreen;
+}
+.green {
+  color: green;
+}
